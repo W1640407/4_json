@@ -5,12 +5,14 @@ import sys
 
 
 def load_data(filepath):
-    with codecs.open(filepath, 'r', encoding='utf-8', errors='ignore') as opened_file:
+    with codecs.open(filepath, 'r', encoding='utf-8',
+                     errors='ignore') as opened_file:
         return opened_file.read()
 
 
 def pretty_print_json(opened_file):
-    print(json.dumps(json.loads(opened_file), ensure_ascii=False, sort_keys=True, indent=4))
+    print(json.dumps(json.loads(opened_file), ensure_ascii=False,
+                     sort_keys=True, indent=4))
 
 
 if __name__ == '__main__':
