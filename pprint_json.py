@@ -10,7 +10,7 @@ def load_data(filepath):
 
 
 def pretty_print_json(opened_file):
-    print(json.dumps(json.loads(opened_file), sort_keys=True, indent=4))
+    print(json.dumps(json.loads(opened_file), ensure_ascii=False, sort_keys=True, indent=4))
 
 
 if __name__ == '__main__':

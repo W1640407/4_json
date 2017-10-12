@@ -23,46 +23,46 @@ python pprint_json.py test.json
 [
     {
         "Cells": {
-            "Address": "\u0443\u043b\u0438\u0446\u0430 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u041f\u0430\u0432\u043b\u043e\u0432\u0430, \u0434\u043e\u043c 10",
-            "AdmArea": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "Address": "улица Академика Павлова, дом 10",
+            "AdmArea": "Западный административный округ",
             "ClarificationOfWorkingHours": null,
-            "District": "\u0440\u0430\u0439\u043e\u043d \u041a\u0443\u043d\u0446\u0435\u0432\u043e",
-            "IsNetObject": "\u0434\u0430",
-            "Name": "\u0410\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u041c\u0438\u0440",
-            "OperatingCompany": "\u0410\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439 \u041c\u0438\u0440",
+            "District": "район Кунцево",
+            "IsNetObject": "да",
+            "Name": "Ароматный Мир",
+            "OperatingCompany": "Ароматный Мир",
             "PublicPhone": [
                 {
                     "PublicPhone": "(495) 777-51-95"
                 }
             ],
-            "TypeService": "\u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u043e\u0432",
+            "TypeService": "реализация продовольственных товаров",
             "WorkingHours": [
                 {
-                    "DayOfWeek": "\u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+                    "DayOfWeek": "понедельник",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u0432\u0442\u043e\u0440\u043d\u0438\u043a",
+                    "DayOfWeek": "вторник",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0440\u0435\u0434\u0430",
+                    "DayOfWeek": "среда",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u0447\u0435\u0442\u0432\u0435\u0440\u0433",
+                    "DayOfWeek": "четверг",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u043f\u044f\u0442\u043d\u0438\u0446\u0430",
+                    "DayOfWeek": "пятница",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0443\u0431\u0431\u043e\u0442\u0430",
+                    "DayOfWeek": "суббота",
                     "Hours": "09:30-22:30"
                 },
                 {
-                    "DayOfWeek": "\u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435",
+                    "DayOfWeek": "воскресенье",
                     "Hours": "09:30-22:30"
                 }
             ],
@@ -80,46 +80,46 @@ python pprint_json.py test.json
     },
     {
         "Cells": {
-            "Address": "\u0443\u043b\u0438\u0446\u0430 \u041b\u0435\u0441\u043a\u043e\u0432\u0430, \u0434\u043e\u043c 6",
-            "AdmArea": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "Address": "улица Лескова, дом 6",
+            "AdmArea": "Северо-Восточный административный округ",
             "ClarificationOfWorkingHours": null,
-            "District": "\u0440\u0430\u0439\u043e\u043d \u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e",
-            "IsNetObject": "\u0434\u0430",
-            "Name": "\u041c\u0430\u0441\u0441\u0430\u043d\u0434\u0440\u0430 \u0432 \u0410\u043b\u0442\u0443\u0444\u044c\u0435\u0432\u043e",
-            "OperatingCompany": "\u041c\u0430\u0441\u0441\u0430\u043d\u0434\u0440\u0430",
+            "District": "район Бибирево",
+            "IsNetObject": "да",
+            "Name": "Массандра в Алтуфьево",
+            "OperatingCompany": "Массандра",
             "PublicPhone": [
                 {
                     "PublicPhone": "(499) 909-40-08"
                 }
             ],
-            "TypeService": "\u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u043e\u0432",
+            "TypeService": "реализация продовольственных товаров",
             "WorkingHours": [
                 {
-                    "DayOfWeek": "\u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+                    "DayOfWeek": "понедельник",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0432\u0442\u043e\u0440\u043d\u0438\u043a",
+                    "DayOfWeek": "вторник",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0440\u0435\u0434\u0430",
+                    "DayOfWeek": "среда",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0447\u0435\u0442\u0432\u0435\u0440\u0433",
+                    "DayOfWeek": "четверг",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u043f\u044f\u0442\u043d\u0438\u0446\u0430",
+                    "DayOfWeek": "пятница",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0443\u0431\u0431\u043e\u0442\u0430",
+                    "DayOfWeek": "суббота",
                     "Hours": "10:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435",
+                    "DayOfWeek": "воскресенье",
                     "Hours": "10:00-22:00"
                 }
             ],
@@ -137,46 +137,46 @@ python pprint_json.py test.json
     },
     {
         "Cells": {
-            "Address": "\u0410\u043b\u0442\u0443\u0444\u044c\u0435\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u0434\u043e\u043c 72",
-            "AdmArea": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "Address": "Алтуфьевское шоссе, дом 72",
+            "AdmArea": "Северо-Восточный административный округ",
             "ClarificationOfWorkingHours": null,
-            "District": "\u0440\u0430\u0439\u043e\u043d \u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e",
-            "IsNetObject": "\u043d\u0435\u0442",
-            "Name": "\u0421\u043e\u043d\u0430\u0442\u0430-\u041c",
+            "District": "район Бибирево",
+            "IsNetObject": "нет",
+            "Name": "Соната-М",
             "OperatingCompany": null,
             "PublicPhone": [
                 {
                     "PublicPhone": "(905) 791-87-13"
                 }
             ],
-            "TypeService": "\u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u043e\u0432",
+            "TypeService": "реализация продовольственных товаров",
             "WorkingHours": [
                 {
-                    "DayOfWeek": "\u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+                    "DayOfWeek": "понедельник",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0432\u0442\u043e\u0440\u043d\u0438\u043a",
+                    "DayOfWeek": "вторник",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0440\u0435\u0434\u0430",
+                    "DayOfWeek": "среда",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0447\u0435\u0442\u0432\u0435\u0440\u0433",
+                    "DayOfWeek": "четверг",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u043f\u044f\u0442\u043d\u0438\u0446\u0430",
+                    "DayOfWeek": "пятница",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0441\u0443\u0431\u0431\u043e\u0442\u0430",
+                    "DayOfWeek": "суббота",
                     "Hours": "09:00-22:00"
                 },
                 {
-                    "DayOfWeek": "\u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435",
+                    "DayOfWeek": "воскресенье",
                     "Hours": "09:00-22:00"
                 }
             ],
